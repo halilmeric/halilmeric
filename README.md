@@ -1,5 +1,22 @@
 <h1 align="center">Merhaba, ben Halil Meriç 👋</h1>
 
+
+<h3 align="center">
+  Yazılım Geliştirme · SaaS · Otomasyon · DevOps
+</h3>
+
+<p align="center">
+  Gerçek ihtiyaçlara yönelik dijital ürünler geliştiriyorum.
+</p>
+
+<p align="center">
+  <a href="#-geliştirdiğim-projeler">Projelerim</a>
+  ·
+  <a href="#-teknolojiler">Teknolojiler</a>
+  ·
+  <a href="#-github-istatistiklerim">İstatistikler</a>
+</p>
+
 <h3 align="center">
 Yazılım Geliştirici | SaaS ve Otomasyon | Sistem Altyapıları
 </h3>
