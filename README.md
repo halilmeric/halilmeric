@@ -13,9 +13,7 @@ altyapılar geliştiriyorum.
   <a href="https://github.com/halilmeric">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://whkutuphane.com">
-    <img src="https://img.shields.io/badge/WH_Kütüphane-2563EB?style=for-the-badge&logo=bookstack&logoColor=white" alt="WH Kütüphane" />
-  </a>
+
 </p>
 
 ---
@@ -34,8 +32,7 @@ sistem yönetimini bir araya getiriyorum.
 
 ## 🚀 Çalışma Alanlarım
 
-- 📚 **Kütüphane Otomasyonu:** WH Kütüphane Otomasyonu
-  ve dijital kütüphane yönetim çözümleri.
+
 - ⚙️ **SaaS ve Otomasyon:** Web tabanlı yazılımlar,
   yönetim sistemleri ve iş akışı otomasyonu.
 - 🔐 **Yazılım Güvenliği:** Güvenlik denetimleri,
@@ -72,9 +69,8 @@ amacıyla geliştirilen bir kütüphane yönetim platformu.
 - Kütüphane operasyonlarının dijitalleştirilmesi
 - Güvenlik ve yazılım kalitesine odaklanan geliştirme süreçleri
 
-🌐 Web sitesi: [whkutuphane.com](https://whkutuphane.com)
 
-### 🏠 Sunucu ve Homelab Altyapısı
+### 🏠 Sunucu ve Altyapı
 
 Uygulamalar, depolama, ağ hizmetleri, izleme sistemleri ve
 yerel yapay zekâ çözümleri için kendi sunucu altyapımı
@@ -141,8 +137,6 @@ and infrastructure management.
 
 ## 🚀 Areas of Focus
 
-- 📚 **Library Automation:** WH Library Automation and digital
-  library management solutions.
 - ⚙️ **SaaS & Automation:** Web applications, management systems,
   and workflow automation.
 - 🔐 **Application Security:** Security reviews, automated testing,
